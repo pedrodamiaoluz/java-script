@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: bisque;
+}
+
+.heder-menu{
+    padding: 5px;
+    border: none;
+    background-color: bisque;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.heder-menu a{
+    color: black;
+    text-decoration: none;
+}
+
+.heder-menu h1{
+    color: rgba(0, 242, 255, 0.959);
+    cursor: default;
+}
